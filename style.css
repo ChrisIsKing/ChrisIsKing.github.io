@@ -1,0 +1,415 @@
+/*********************
+* CSI 2205 Assignment 
+* Style.css
+* Created by Christopher Clarke
+* University of Guyana
+*
+*
+**********************/
+@import url(http://www.markmurray.co/codepen/entypostyle.css);
+
+body {
+	padding: 0;
+	margin: -20px;
+	font-family: 'proxima-nova';
+	font-size: 18px;
+	background: #ccc;
+}
+
+.logo {
+	position: absolute;
+	left: 20px;
+	color: transparent;
+	padding: 10px;
+	top: 10px;
+}
+
+.nav ul {
+	list-style: none;
+    text-align: right;
+    padding: 50px;
+    margin: 0;
+    background-image: url("images/header-pic.png");
+    background-size: 100% 100%;
+    height: 200px;
+    background-color: transparent;
+    top: 100px;
+}
+
+.nav li {
+	color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.8em;
+    line-height: 40px;
+    height: 40px;
+    display: inline;
+    padding: 20px;
+    vertical-align: middle;
+  	margin: 0;
+}
+
+.nav li a {
+	text-decoration: none;
+	color: #fff;
+	margin: 0.3em;
+    padding: 0.5em 1em;
+    text-transform: uppercase;
+}
+
+.nav li a:hover {
+	color: #15DDD6;
+}
+
+#contact {
+	border: 2px solid #fff;
+}
+
+#contact:hover {
+	color: #15DDD6;
+	border: 2px solid #15DDD6;
+	transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+}
+
+.logo:hover {
+	-webkit-filter: brightness(150%); 
+}
+
+.header-desc {
+	text-align: center;
+	color: #fff;
+	font-family: "adobe-garamond-pro";
+	font-style: italic;
+	font-size: 24px;
+  	line-height: 1.5em;
+  	text-transform: none;
+  	letter-spacing: 1px;
+  	font-weight: 400;
+}
+
+.header-desc2 {
+	text-align: center;
+	color: #fff;
+	font: 300 12px/18px pragmatica-web,'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 35px;
+  	line-height: 1em;
+  	text-transform: uppercase;
+  	font-weight: 700;
+  	font-style: normal;
+  	letter-spacing: 0.0588235294117647em;
+}
+
+.page-middle {
+	padding: 50px 20px 100px 20px;
+	margin-bottom: 0 !important;
+  	background-color: #fff;
+  	border-bottom: 3px solid rgba(0,0,0,.025);
+}
+
+.middle-top {
+	  font-family: "proxima-nova";
+  	font-size: 18px;
+  	line-height: 1.6em;
+  	letter-spacing: 0px;
+  	font-weight: 400;
+  	font-style: normal;
+  	color: rgba(26,26,26,.6);
+  	text-align: center;
+  	padding: 0px 32px;
+  	margin: auto;
+}
+
+.middle-bottom {
+	background-color: #fff;
+}
+
+.heading-text {
+	font-family: "proxima-nova";
+  	font-size: 28px;
+  	line-height: 1.0em;
+  	letter-spacing: 0px;
+  	font-weight: 400;
+  	font-style: normal;
+  	color: rgba(26,26,26,.9);
+}
+
+.box {
+	width: auto;
+	margin: auto;
+	max-width: 1020px;
+	box-sizing: border-box;
+	padding-bottom: 30px;
+}
+
+.box2 {
+  width: auto;
+  margin: auto;
+  max-width: 1020px;
+  box-sizing: border-box;
+  padding-bottom: 15px;
+}
+
+.gallery-heading {
+	font-family: "proxima-nova";
+  	font-size: 28px;
+  	line-height: 1.0em;
+  	letter-spacing: 0px;
+  	font-weight: 400;
+  	font-style: normal;
+  	color: black;
+  	text-align: center;
+}
+
+.container{
+  margin:50px auto;
+  width:500px;
+  height:300px;
+  overflow:hidden;
+  border:10px solid;
+  border-top-color: #000000;
+  border-left-color: #000000;
+  border-bottom-color: #000000;
+  border-right-color: #000000;
+  position:relative;
+
+}
+.photo{
+  position:absolute;
+  -webkit-animation:round 16s infinite;
+  opacity:0;
+  
+}
+@-webkit-keyframes round{   
+  25%{opacity:1;}
+  40%{opacity:0;}
+} 
+
+.container img:nth-child(4){
+	-webkit-animation-delay:0s;
+}
+
+.container img:nth-child(3){
+	-webkit-animation-delay:4s;
+}
+
+.container img:nth-child(2){
+	-webkit-animation-delay:8s;
+}
+
+.container img:nth-child(1){
+	-webkit-animation-delay:12s;
+}
+
+#footer {
+	
+}
+
+.page-bottom {
+	padding: 50px 20px 10px 20px;
+	margin-bottom: 0 !important;
+	background-color: #000000;
+  	border-bottom: 3px solid rgba(0,0,0,.025);
+}
+
+.img-wrapper {
+	text-align: center;    
+}
+
+.footer-nav ul {
+	list-style: none;
+    text-align: center;
+    margin: 0;
+    background-color: transparent;
+    top: 100px;
+}
+
+.footer-nav ul li {
+	color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.8em;
+    line-height: 40px;
+    display: inline;
+    padding: 20px;
+    vertical-align: middle;
+  	margin: 0;
+  	
+}
+
+.footer-nav ul li a {
+	font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	letter-spacing: 0px;
+	line-height: 1.2em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-style: normal;
+  	text-decoration: none;
+  	color: #fff;
+}
+
+.copyright {
+	padding-top: 0;
+	color: #fff;
+	text-align: center;
+	font-family: "proxima-nova";
+}
+
+/*  SECTIONS  */
+.section {
+  clear: both;
+  padding: 0px;
+  margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+  display: block;
+  float:left;
+  margin: 1% 0 1% 0%;
+  font-family: "proxima-nova";
+  font-size: 18px;
+  line-height: 1.6em;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-style: normal;
+  color: rgba(26,26,26,.6);
+  text-align: center;
+}
+
+.col:first-child { 
+  margin-left: 0; 
+}
+
+/*  GROUPING  */
+.group:before, .group:after { 
+  content:""; 
+  display:table; 
+}
+
+.group:after { 
+  clear:both;
+}
+
+.group { 
+  zoom:1;
+  text-align: center;
+ /* For IE 6/7 */ 
+}
+
+/*  GRID OF THREE  */
+.span_3_of_3 { 
+  width: 100%; 
+}
+
+.span_2_of_3 { 
+  width: 66.66%; 
+}
+
+.span_1_of_3 { 
+  width: 33.33%; 
+}
+
+.col ul li {
+  list-style: none;
+  text-align: -webkit-center;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+  .col {  margin: 1% 0 1% 0%; }
+  .span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+}
+
+.row-container {
+  width: 25em;
+  margin: 0 auto 3em auto;
+  text-align: center;
+  overflow: hidden;
+}
+
+.row {
+  margin: 0.5em 0;
+  float: left;
+  clear: both;
+}
+.row i {
+  cursor: pointer;
+  display: inline-block;
+  -moz-transition: all 0.15s ease;
+  -o-transition: all 0.15s ease;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+} 
+.row:nth-child(1) {
+  background: transparent;
+}
+.row:nth-child(1) a i {
+  color: white;
+  padding: 1em;
+  position: relative;
+  background: transparent;
+}
+.row:nth-child(1) i:hover {
+  border-radius: 50%;
+}
+.row:nth-child(1) i:not(:first-child) {
+  margin-left: 1em;
+}
+.row:nth-child(1) a:nth-child(1) i {
+  color: #3b5998;
+  border: 2px solid #3b5998;
+}
+.row:nth-child(1) a:nth-child(1) i:hover {
+  color: white;
+  background: #3b5998;
+}
+.row:nth-child(1) a:nth-child(2) i {
+  color: #00a0d1;
+  border: 2px solid #00a0d1;
+}
+.row:nth-child(1) a:nth-child(2) i:hover {
+  color: white;
+  background: #00a0d1;
+}
+.row:nth-child(1) a:nth-child(3) i {
+  color: #db4a39;
+  border: 2px solid #db4a39;
+}
+.row:nth-child(1) a:nth-child(3) i:hover {
+  color: white;
+  background: #db4a39;
+}
+
+.row a {
+  text-decoration: none;
+}
+.img-circular{
+ width: 200px;
+ height: 200px;
+ background-image: url('images/contact-pic.png');
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ vertical-align: center;
+}
+
+.span2 { 
+  width: 30%;
+  float: right; 
+}
+
+.span1 { 
+  width: 41%; 
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+  .col {  margin: 1% 0 1% 0%; }
+  .span1, .span2 { width: 100%; }
+}
+
+.content-info p {
+  text-align: left;
+}
