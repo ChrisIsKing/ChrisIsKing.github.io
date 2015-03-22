@@ -10,6 +10,7 @@
 	-moz-transform:scale(0.6);
 	-o-transform:scale(0.6);
 	-ms-transform:scale(0.6);
+	transform:scale(0.6);
 	float:left;
 	margin-left:-50px;
 	margin-right:-50px;
@@ -18,13 +19,14 @@
 	-moz-transition-duration: 0.5s;
 	-o-transition-duration: 0.5s;
 	-ms-transition-duration:0.5s;
+	transition-duration:0.5s;
 	width: 400px;
 	height: 225px;
 	overflow: hidden;
 	}
 .img img{
-		padding:10px;
-		border:1px solid #fff;
+	padding:10px;
+	border:1px solid #fff;
 }
 .img:hover{
 	-webkit-transform:scale(0.8);
@@ -34,7 +36,9 @@
 	-o-transform:scale(0.8);
 	-o-box-shadow:0px 0px 30px #ccc;
 	-ms-transform:scale(0.8);
-	box-shadow: 0px 0px 30px #ccc	
+	-ms-box-shadow: 0px 0px 30px #ccc;
+	transform:scale(0.8);
+	box-shadow: 0px 0px 30px #ccc;	
 }	 
 .img .mask{
 	width: 100%;
@@ -47,6 +51,7 @@
 	-moz-transition-duration: 0.5s;
 	-o-transition-duration:0.5s;
 	-ms-transform-duration:0.5s;
+	transform-duration:0.5s;
 }
 #img-1:hover .mask{
 	height:0%;	
@@ -84,6 +89,7 @@
 	-moz-transform: rotate(360deg);
 	-o-transform: rotate(-360deg);
 	-ms-transform: rotate(-360deg);
+	transform: rotate(-360deg);
 }
 #img-6:hover .mask{
 	margin-left:219px;
@@ -94,4 +100,5 @@
 	-moz-transform: rotateZ(750deg);
 	-o-transform: rotat(750deg);
 	-ms-transform: rotateX(750deg);
+	transform: rotateX(750deg);
 }
