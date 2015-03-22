@@ -72,6 +72,9 @@ body {
 
 .logo:hover {
 	-webkit-filter: brightness(150%); 
+  -moz-filter: brightness(150%);
+  -0-filter:brightness(150%);
+  filter:brightness(150%);
 }
 
 .header-desc {
@@ -176,6 +179,8 @@ body {
   position:absolute;
   -webkit-animation:round 16s infinite;
   -moz-animation:round 16s infinite;
+  -o-animation:round 16s infinite;
+  animation:round 16s infinite;
   opacity:0;
   
 }
@@ -189,24 +194,33 @@ body {
   40%{opacity:0;}
 }
 
+@keyframes round {
+	25%{opacity:1;}
+  	40%{opacity:0;}
+}
+
 .container img:nth-child(4){
   -webkit-animation-delay:0s;
   -moz-animation-delay:0s;
+  animation-delay:0s;
 }
 
 .container img:nth-child(3){
   -webkit-animation-delay:4s;
   -moz-animation-delay:4s;
+  animation-delay:4s;
 }
 
 .container img:nth-child(2){
   -webkit-animation-delay:8s;
   -moz-animation-delay:8s;
+  animation-delay:8s;
 }
 
 .container img:nth-child(1){
   -webkit-animation-delay:12s;
   -moz-animation-delay:12s;
+  animation-delay:12s;
 }
 
 #footer {
