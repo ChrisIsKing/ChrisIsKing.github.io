@@ -73,7 +73,7 @@ body {
 .logo:hover {
 	-webkit-filter: brightness(150%); 
   -moz-filter: brightness(150%);
-  -0-filter:brightness(150%);
+  -o-filter:brightness(150%);
   filter:brightness(150%);
 }
 
