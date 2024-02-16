@@ -5,6 +5,7 @@ title: Publications
 description: 
 years: [2023,2022,2019]
 nav: true
+nav_order: 2
 ---
 
 A more up-to-date list is also available on [google scholar](https://scholar.google.com/citations?user=IaFEAbsAAAAJ)
@@ -12,9 +13,6 @@ A more up-to-date list is also available on [google scholar](https://scholar.goo
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+{% bibliography %}
 
 </div>

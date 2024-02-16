@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: I've had the privilege to teach and mentor some amazing individuals on their academic journeys throughout the years.
 nav: true
+nav_order: 6
 ---
 
 ### Mentees
