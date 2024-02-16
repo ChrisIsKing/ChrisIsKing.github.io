@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Christopher Clarke is a PhD Candidate at the University of Michigan advised by [Prof. Jason Mars](https://www.jasonmars.org/), a lecturer in computer science at the University of Guyana, and a Director on the boards of V75 Inc. and Nexus Inc. He holds a Master's degree from the University of Michigan, a Bachelor's degree from the University of Guyana, and a postgraduate degree in Entrepreneurship and Innovation from the University of Michigan.
 
-Christopher’s research is devoted to enhancing the capabilities of AI, particularly in NLP and Human AI Interaction. More specifically, his work lies at the intersection of the following areas:
+Christopher’s research is devoted to enhancing the capabilities of AI, particularly in Natural Lanaguage Processing (NLP) and Human AI Interaction. More specifically, his work lies at the intersection of the following areas:
 
 - Foundation Driven: In this domain, Christopher designs cutting-edge algorithms and deep learning techniques for building large language models that create rich content representations for many use cases & tasks.
 
@@ -28,7 +28,7 @@ Christopher’s research is devoted to enhancing the capabilities of AI, particu
 
 - Deployment Driven: Christopher is committed to addressing the practical challenges of deploying AI and NLP models in real-world settings. This pillar of his research encompasses optimizing models for efficient deployment, ensuring their robustness and security, and rigorously addressing ethical and fairness considerations.
 
-He has published several research papers at renowned conferences and has collaborated with industry leaders such as Microsoft, Amazon, Ford, and Clinc Inc.
+He has published research papers at renowned conferences and has collaborated with industry leaders such as Microsoft, Amazon, Ford, and Clinc Inc.
 
 Christopher's academic interest is complemented by his dedication to teaching and mentoring. He has served as a Graduate Student Instructor at the University of Michigan and as a lecturer at the University of Guyana where he mentors undergraduate and graduate students, fostering their interest in computer science research, and supporting their academic development.
 
