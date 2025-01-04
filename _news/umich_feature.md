@@ -18,8 +18,7 @@ What does it take to go from a fledgling programmer in Guyana to an AI trailblaz
 
 <img src="https://eecsnews.engin.umich.edu/wp-content/uploads/sites/2/2024/12/RJS0330-1024x1024.jpg" alt="Christopher Clarke headshot" style="width: 100%;">
 
-
-*Christopher Clarke*
+_Christopher Clarke_
 
 As Christopher reflects on his academic journey, he credits his initial interest in technology and computing to his high school days in Guyana. He got his first taste of programming through a school-based project using Pascal, an old programming language that introduced him to the world of computer science.
 
@@ -37,8 +36,7 @@ Adjusting to the PhD program at U-M was not without its challenges. Coming into 
 
 <img src="https://eecsnews.engin.umich.edu/wp-content/uploads/sites/2/2024/12/CClarke-frame-2-1024x617.jpg" alt="A photo of Christopher Clarke typing on a computer from behind. On the screen are lines of code against a black background." style="width: 100%;">
 
-
-*Christopher Clarke works in the lab in the Bob and Betty Beyster Building on U-M’s North Campus.*
+_Christopher Clarke works in the lab in the Bob and Betty Beyster Building on U-M’s North Campus._
 
 “I came in at a time when the lab was kind of in a reset mode,” said Christopher. “This gave me the freedom to pursue my own research interests. I started independently, taking classes, exploring various facets of computer science, and honing in on my unique areas of interest.”
 
@@ -59,7 +57,7 @@ To this end, Christopher has spearheaded the development of various techniques f
 Another notable contribution is Christopher’s development of [Rule by Example](https://aclanthology.org/2023.acl-long.22/), a framework aimed at improving AI’s ability to detect hate speech. By creating a feedback mechanism where users can correct and guide the model’s learning process, the system becomes more attuned to individual and community standards of harmful content. This approach not only enhances the accuracy of hate speech detection but also makes the model more controllable and explainable.
 
 > “It’s essential to find something that grounds you and aligns with your values. It’s about finding the balance between theoretical research and practical, impactful solutions.”
-> 
+>
 > **Christopher Clarke**
 
 Additionally, Christopher has developed datasets and benchmarks essential for personalized AI. He introduced the [GuyLingo](https://aclanthology.org/2024.naacl-short.70/) corpus, the first dataset for Guyanese Creole, emphasizing the importance of including diverse languages in AI development. This project highlights Christopher’s commitment to making AI inclusive and representative of various cultures and languages.
@@ -76,8 +74,7 @@ Nexus Hub Inc. is a non-profit organization that aims to bridge the digital divi
 
 <img src="https://eecsnews.engin.umich.edu/wp-content/uploads/sites/2/2024/12/AI-Guyana-speaker-1024x683.jpg" alt="Christopher Clarke holds a microphone and speaks while standing on a stage at the front of a large room. Behind him is a projector screen with the title of the conference on it." style="width: 100%;">
 
-
-*Christopher delivered a keynote talk at the 2023 AI-4D Showcase in Georgetown, Guyana.*
+_Christopher delivered a keynote talk at the 2023 AI-4D Showcase in Georgetown, Guyana._
 
 Through his entrepreneurial work, Christopher seeks to facilitate collaboration and support innovation in the tech sector, helping Guyana achieve greater economic stability and growth.
 

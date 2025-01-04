@@ -8,12 +8,12 @@ nav_order: 6
 ---
 
 ### Mentees
+
 - [Braden Loughnane](https://www.linkedin.com/in/bradenloughnane/) (University of Michigan '22)
 - [Yuzhoa (Stefan) Heng](https://stefanheng.github.io/) (University of Michigan '22, Now at Georgia Tech)
 - Victoria Shipman (University of Michigan, Explore CS Programme)
 - Tamariah Davis (University of Michigan, Explore CS Programme)
 - Timothy Indarsingh (University of Guyana)
-
 
 ### University of Michigan
 
@@ -311,4 +311,3 @@ nav_order: 6
     </ul>
   </div>
 </div>
-

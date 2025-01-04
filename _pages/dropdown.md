@@ -4,7 +4,7 @@ title: Resume
 nav: true
 permalink: assets/pdf/resume.pdf
 dropdown: false
-# children: 
+# children:
 #     - title: publications
 #       permalink: /publications/
 #     - title: divider
