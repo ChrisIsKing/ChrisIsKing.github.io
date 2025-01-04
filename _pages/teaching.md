@@ -8,6 +8,7 @@ nav_order: 6
 ---
 
 ### Mentees
+- [Braden Loughnane](https://www.linkedin.com/in/bradenloughnane/) (University of Michigan '22)
 - [Yuzhoa (Stefan) Heng](https://stefanheng.github.io/) (University of Michigan '22, Now at Georgia Tech)
 - Victoria Shipman (University of Michigan, Explore CS Programme)
 - Tamariah Davis (University of Michigan, Explore CS Programme)
@@ -15,6 +16,64 @@ nav_order: 6
 
 
 ### University of Michigan
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://ece.engin.umich.edu/wp-content/uploads/2021/03/EECS_498_Conversational_AI.pdf" target="_blank" rel="noopener noreferrer">Conversational AI</a></h5>
+        <h6 class="card-subtitle font-italic">Fall 2024: GSI</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          EECS449
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Course Materials
+          </div>
+          <div class="col-sm-3 text-right pr-0">
+            <a href="https://umich.instructure.com/courses/459668/external_tools/1262" target="_blank" rel="noopener noreferrer">Videos</a>&nbsp;|&nbsp;<a href="https://ece.engin.umich.edu/wp-content/uploads/2021/03/EECS_498_Conversational_AI.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a>
+          </div>
+        </div>
+      </li>    
+    </ul>
+  </div>
+</div>
+<p></p>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://ece.engin.umich.edu/wp-content/uploads/2021/03/EECS_498_Conversational_AI.pdf" target="_blank" rel="noopener noreferrer">Conversational AI</a></h5>
+        <h6 class="card-subtitle font-italic">Winter 2023: GSI</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          EECS449
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Course Materials
+          </div>
+          <div class="col-sm-3 text-right pr-0">
+            <a href="https://umich.instructure.com/courses/459668/external_tools/1262" target="_blank" rel="noopener noreferrer">Videos</a>&nbsp;|&nbsp;<a href="https://ece.engin.umich.edu/wp-content/uploads/2021/03/EECS_498_Conversational_AI.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a>
+          </div>
+        </div>
+      </li>    
+    </ul>
+  </div>
+</div>
+<p></p>
 
 <div class="card mt-3">
   <div class="p-3">

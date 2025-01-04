@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 nav: true
-permalink: assets/pdf/cv.pdf
+permalink: assets/pdf/resume.pdf
 dropdown: false
 # children: 
 #     - title: publications
