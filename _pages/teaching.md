@@ -110,6 +110,35 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <h5 class="card-title"><a href="https://github.com/ChrisIsKing/MAI5100" target="_blank" rel="noopener noreferrer">Fundamentals of Artificial Intelligence</a></h5>
+        <h6 class="card-subtitle font-italic">Trimester I 2025: Lecturer</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          MAI5100
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Course Materials
+          </div>
+          <div class="col-sm-3 text-right pr-0">
+            <a href="https://github.com/ChrisIsKing/MAI5100" target="_blank" rel="noopener noreferrer">Slides</a>&nbsp;|&nbsp;<a href="https://github.com/ChrisIsKing/MAI5100" target="_blank" rel="noopener noreferrer">Code</a>
+          </div>
+        </div>
+      </li>    
+    </ul>
+  </div>
+</div>
+<p></p>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
         <h5 class="card-title"><a href="https://www.facebook.com/groups/cse1201summer2018" target="_blank" rel="noopener noreferrer">Introduction to Programming</a></h5>
         <h6 class="card-subtitle font-italic">Summer 2018: Lecturer</h6>
       </div>
